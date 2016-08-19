@@ -1992,9 +1992,11 @@
 		display: inline-block;
 		background: #df7366;
 		height:4em;
-		width:9.5em;
+		width:15em;
 		color: #fff;
 		text-align: center;
+		font-weight: bold;
+		vertical-align: middle;
 		font-size:16px;
 		border-radius: 0.5em;
 		text-decoration: none;
@@ -2267,6 +2269,9 @@
 					display: block;
 					color: inherit;
 					text-decoration: none;
+					font-size:19px;
+					font-weight:bold;
+					
 					border: 0;
 					outline: 0;
 				}
