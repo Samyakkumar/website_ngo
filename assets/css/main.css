@@ -1991,8 +1991,11 @@
 		position: relative;
 		display: inline-block;
 		background: #df7366;
+		height:4em;
+		width:9.5em;
 		color: #fff;
 		text-align: center;
+		font-size:16px;
 		border-radius: 0.5em;
 		text-decoration: none;
 		padding: 0.65em 3em 0.65em 3em;
